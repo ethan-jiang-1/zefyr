@@ -172,9 +172,9 @@ class InputConnectionController implements TextInputClient {
     // TODO: implement showAutocorrectionPromptRect
   }
 
-  @override
+  //@override
   // TODO: implement currentAutofillScope
-  AutofillScope get currentAutofillScope => null;
+  //AutofillScope get currentAutofillScope => null;
 
   @override
   void connectionClosed() {
